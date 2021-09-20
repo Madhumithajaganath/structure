@@ -16,7 +16,6 @@ int main()
     {
         printf("Enter the name\n");
         scanf("%s",&emp.name);
-        //gets(emp.name);
         printf("Enter the age\n");
         scanf("%d",&emp.age);
         printf("Enter mobile number");
